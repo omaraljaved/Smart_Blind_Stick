@@ -7,17 +7,4 @@
 6. LDR (Dark Detector)
 
 # List of Components:
-4- Ultrasonic sensor
-1- LDR
-1- Switch (On/Off)
-1- Push Button
-2- Arduino nano
-1- set Transmitter Receiver (Rx, TX 333Hz)
-1- Moisture sensor
-1- SD Card Module
-1- SD card (2GB)
-1- 25 mm conduit pvc pipe
-1- 25 mm conduit pvc band (L)
-2- 9Volt Battery (chargeable)
-1- Earphone
-Connecting wires
+Ultrasonic sensor, LDR, Switch (On/Off), Push Button, Arduino nano, set Transmitter Receiver (Rx, TX 333Hz), Moisture sensor, SD Card Module, SD card (2GB), 25 mm conduit pvc pipe, 25 mm conduit pvc band (L), 9Volt Battery (chargeable), Earphone, Connecting wires
