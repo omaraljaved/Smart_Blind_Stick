@@ -1,4 +1,5 @@
-![Click to watch the video](https://www.youtube.com/watch?v=wFoWWygW1uc)
+[![Click to watch the video](![Smart-Blind-Stick-_-youtube-thumbnail_page-0001](https://github.com/omaraljaved/Smart_Blind_Stick/assets/67588258/aef6132a-85f5-4b16-acdc-2f00d867ede7)
+)](https://www.youtube.com/watch?v=wFoWWygW1uc)
 
 
 ## Features:
