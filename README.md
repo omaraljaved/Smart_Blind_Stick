@@ -1,4 +1,5 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wFoWWygW1uc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Click to watch the video](![Smart-Blind-Stick-_-youtube-thumbnail_page-0001](https://github.com/omaraljaved/Smart_Blind_Stick/assets/67588258/0ff22853-29bc-44fb-ae73-ad82a0502a19)
+)](https://www.youtube.com/watch?v=wFoWWygW1uc)
 
 ## Features:
 1. Object Detector
